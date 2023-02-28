@@ -36,9 +36,9 @@ function Store(): JSX.Element {
         <MbText>2. Choose NFT.</MbText>
         <MbText>3. Purchase!</MbText>
         <div className="mt-4 flex">
-          <a target="_blank" rel="noreferrer" href="https://mintbase.xyz/leaderboard">
+          <a target="_blank" rel="noreferrer" href="https://twitter.com/MetaMeech">
             <MbButton
-              label="See Leaderboard"
+              label="Follow Meta Meech On Twitter"
               size={ESize.MEDIUM}
               state={EState.ACTIVE}
             />
